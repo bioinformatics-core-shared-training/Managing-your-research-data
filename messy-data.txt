@@ -1,0 +1,101 @@
+"ID"	"Name"	"Race"	"Sex"	"Smokes"	"Height"	"Birth"	"State"	"Pet"	"Grade_Level"	"Died"	"Count"	"Date"
+"001"	"Demetrius"	"White"	"Male"	"FALSE"	0	1972-06-18	"Kansas"	"DOG"	2	FALSE	0.373883384690243	2015-03-02
+"002"	"Rosario"	"White"	"Male"	"FALSE"	74	1971-11-25	"Ohio"	"Dog"	3	FALSE	-0.349478435922321	2015-03-02
+"003"	"Julio"	"Black"	"Male"	"FALSE"	68	1972-02-22	"Washington"	"Dog"	2	TRUE	-0.0085342793161988	2015-03-02
+"004"	"Lupe"	"Cat"	"Male"	"FALSE"	74	1972-04-23	"Pennsylvania"	"Cat"	1	TRUE	-0.879126607779091	2015-03-02
+"005"	"Lavern"	"White"	"Female"	"FALSE"	71	1972-10-07	"Colorado"	"None"	3	TRUE	-1.39320589626682	2015-03-02
+"006"	"Bernie"	"Native"	"Female"	"TRUE"	69	1972-03-12	"Texas"	"NULL"	3	FALSE	-0.0445611098807884	2015-03-02
+"007"	"Samuel"	"White"	" Female"	"FALSE"	76	1971-06-14	"Florida"	"Dog"	2	TRUE	1.13971669803875	2015-04-02
+"008"	"Clair"	"White"	"Female"	"Yes"	75	1972-01-28	"Oregon"	"None"	2	TRUE	0.848218447096828	2015-04-02
+"009"	"Shirley"	"White"	"Male"	"FALSE"	74	1971-11-08	"California"	"Dog"	3	FALSE	0.848219540125022	2015-04-02
+"010"	"Merle"	"Hispanic"	"Male"	"FALSE"	70	1971-03-07	"North Carolina"	"None"	2	TRUE	0.54844097416884	2015-04-02
+"011"	"Martin"	"White"	"Female"	"No"	0	1971-12-28	"North Carolina"	"Dog"	1	TRUE	0.385415614627844	2015-04-02
+"012"	"Frances"	"White"	" Female"	"FALSE"	71	1972-05-08	"Nevada"	"Dog"	2	TRUE	-1.66184256107573	2015-04-02
+"013"	"Courtney"	"White"	"Male"	"TRUE"	71	1971-05-20	"Indiana"	"Dog"	2	TRUE	-0.3913892540268	2015-05-02
+"014"	"Francis"	"White"	"Female"	"Yes"	0	1971-10-27	"Wisconsin"	"Dog"	2	FALSE	-0.245879620479597	2015-05-02
+"015"	"Vernon"	"White"	"Female"	"No"	66	1971-07-28	"New York"	"Dog"	2	TRUE	0.501023543077025	2015-05-02
+"016"	"Lester"	"Black"	"Male"	"FALSE"	72	1971-12-10	"Washington"	"Cat"	99	FALSE	-1.72357876069135	2015-05-02
+"017"	"Robin"	"Hispanic"	"Male"	"FALSE"	68	1971-08-11	"Florida"	"Dog"	2	TRUE	0.297053504823147	2015-05-02
+"018"	"Albert"	"White"	"Male"	"FALSE"	72	1972-02-25	"Michigan"	"None"	99	TRUE	-0.212070002958456	2015-05-02
+"019"	"Tommy"	"Black"	"Male"	"FALSE"	66	1971-12-06	"New York"	"Cat"	2	FALSE	1.11782503181775	2015-05-02
+"020"	"Kyle"	"Black"	"Male"	"Yes"	67	1971-09-26	"South Carolina"	"NONE"	2	FALSE	1.18956595070126	2015-05-02
+"021"	"Dong"	"White"	"Male"	"FALSE"	64	1971-11-17	"Pennsylvania"	"Dog"	1	TRUE	0.87304480933248	2015-05-02
+"022"	"Michel"	"White"	"Female"	"FALSE"	70	1972-02-27	"New York"	"Cat"	2	FALSE	-0.250391272400877	2015-05-02
+"023"	"Jeremy"	"White"	"Male"	"TRUE"	73	1972-03-22	"Oregon"	"Dog"	3	TRUE	2.40563694450216	2015-06-02
+"024"	"Pat"	"Black"	"Female"	"FALSE"	63	1971-07-06	"New York"	"None"	1	TRUE	-1.19439300170319	2015-06-02
+"025"	"Eugene"	"White"	" Female"	"FALSE"	73	1972-07-09	"Texas"	"Dog"	2	TRUE	-0.752543004173959	2015-06-02
+"026"	"Kris"	"Hispanic"	"Male"	"FALSE"	69	1971-09-22	"California"	"Cat"	2	TRUE	0.0900420443561396	2015-06-02
+"027"	"Tracy"	"Bi-Racial"	"Male"	"TRUE"	75	1972-08-16	"Missouri"	"None"	1	FALSE	1.53456189957841	2015-06-02
+"028"	"Jame"	"White"	"Male"	"FALSE"	0	1971-08-12	"Nevada"	"Cat"	1	FALSE	-1.29198952205751	2015-06-02
+"029"	"Clyde"	"Hispanic"	"Male"	"FALSE"	69	1972-08-12	"Maryland"	"Bird"	2	TRUE	1.60329416642733	2015-06-02
+"030"	"Brett"	"White"	"Male"	"TRUE"	69	1972-10-05	"Utah"	"Dog"	3	FALSE	-0.604579222740034	2015-06-02
+"031"	"Tony"	"White"	"Female"	"FALSE"	70	1972-08-09	"New York"	"None"	1	FALSE	0.120270547399408	2015-07-02
+"032"	"George"	"White"	"Male"	"FALSE"	68	1971-09-12	"Illinois"	"Dog"	1	FALSE	0.733067456480384	2015-07-02
+"033"	"Edward"	"White"	"Male"	"FALSE"	72	1972-03-26	"California"	"Cat"	3	TRUE	0.512028329104819	2015-07-02
+"034"	"Rory"	"Asian"	"Female"	"FALSE"	72	1971-04-09	"Pennsylvania"	"NULL"	1	TRUE	0.0525188791697255	2015-07-02
+"035"	"Shane"	"Hispanic"	"Male"	"TRUE"	71	1971-09-09	"Nevada"	"Dog"	1	TRUE	-0.199645147212437	2015-07-02
+"036"	"Devin"	"White"	"Female"	"TRUE"	70	1971-07-28	"Florida"	"NA"	1	TRUE	0.499997573762924	2015-07-02
+"037"	"Jerry"	"Asian"	"Male"	"FALSE"	63	1971-12-21	"Indiana"	"NULL"	99	FALSE	-0.0716804167571992	2015-07-02
+"038"	"Drew"	"White"	"Female"	"FALSE"	69	1972-12-09	"Idaho"	"CAT"	3	TRUE	-0.530297106644486	2015-07-02
+"039"	"Ronald"	"White"	"Male"	"FALSE"	65	1971-12-05	"Illinois"	"Cat"	3	TRUE	0.65401830176137	2015-07-02
+"040"	"Christopher"	"White"	"Female"	"FALSE"	66	1971-05-21	"Alaska"	"Dog"	2	FALSE	0.824671370847508	2015-07-02
+"041"	"Dominique"	"White"	"Male"	"FALSE"	71	1972-01-06	"Massachusetts"	"Dog"	2	TRUE	-0.739356824299319	2015-08-02
+"042"	"Van"	"White"	"Female"	"FALSE"	63	1973-01-23	"Oklahoma"	"Cat"	3	FALSE	-0.475149102296174	2015-08-02
+"043"	"Bobbie"	"White"	"Female"	"FALSE"	65	1972-11-05	"Massachusetts"	"None"	1	FALSE	0.778924738244744	2015-08-02
+"044"	"Lawrence"	"Hispanic"	"Female"	"FALSE"	67	1971-07-12	"New York"	"None"	3	TRUE	0.397321525667338	2015-08-02
+"045"	"Keith"	"Hispanic"	"Female"	"TRUE"	68	1972-03-13	"New Jersey"	"Cat"	1	FALSE	-0.36125731996716	2015-08-02
+"046"	"Son"	"White"	" Female"	"FALSE"	0	1972-12-23	"Maine"	"None"	1	TRUE	0.97419251731695	2015-08-02
+"047"	"Charlie"	"White"	"Female"	"FALSE"	0	1973-01-05	"Mississippi"	"Dog"	3	FALSE	1.52814264675407	2015-08-02
+"048"	"Jay"	"White"	"Female"	"FALSE"	71	1971-04-24	"Tennessee"	"Dog"	2	TRUE	0.595033096749341	2015-08-02
+"049"	"Richard"	"White"	"Male"	"FALSE"	64	1972-08-06	"Massachusetts"	"NONE"	1	FALSE	1.55910836176254	2015-08-02
+"050"	"Carlos"	"White"	"Female"	"FALSE"	73	1971-04-25	"Tennessee"	"Dog"	2	FALSE	-1.16534248966697	2015-09-02
+"051"	"Gail"	"White"	" Female"	"FALSE"	67	1971-03-31	"Indiana"	"Cat"	2	TRUE	-1.52340903003755	2015-09-02
+"052"	"Marion"	"White"	"Female"	"FALSE"	70	1972-03-18	"Minnesota"	"Dog"	2	TRUE	-0.209668366158554	2015-09-02
+"053"	"Lindsay"	"White"	"Female"	"FALSE"	69	1972-09-13	"Illinois"	"Dog"	1	TRUE	2.83224589792602	2015-09-02
+"054"	"Sean"	"White"	"Female"	"FALSE"	67	1971-12-09	"Ohio"	"Cat"	3	TRUE	-1.47847016806931	2015-09-02
+"055"	"Andrea"	"White"	"Male"	"FALSE"	0	1971-10-11	"California"	"Cat"	2	FALSE	-0.611106484516939	2015-09-02
+"056"	"Jesus"	"Hispanic"	"Female"	"TRUE"	66	1972-07-29	"Tennessee"	"Dog"	3	FALSE	0.878551515794061	2015-09-02
+"057"	"Jan"	"White"	"Female"	"TRUE"	75	1972-06-21	"California"	"None"	3	FALSE	-2.51495353523531	2015-09-02
+"058"	"Walter"	"White"	"Female"	"FALSE"	64	1972-04-01	"South Carolina"	"Dog"	3	TRUE	-0.563412607280294	2015-10-02
+"059"	"Dana"	"White"	"Male"	"FALSE"	67	1972-04-25	"Washington"	"None"	3	FALSE	-0.963412391793977	2015-10-02
+"060"	"Sammy"	"White"	"Male"	"FALSE"	70	1972-05-07	"North Carolina"	"Dog"	3	FALSE	-1.158267464691	2015-10-02
+"061"	"Theo"	"Asian"	"Female"	"FALSE"	62	1972-10-22	"Oklahoma"	"Cat"	1	TRUE	0.0296680106299068	2015-10-02
+"062"	"Shaun"	"White"	"Male"	"TRUE"	75	1972-05-02	"North Carolina"	"Cat"	2	FALSE	1.25480875273104	2015-10-02
+"063"	"Jimmie"	"Black"	"Female"	"FALSE"	68	1971-03-28	"Massachusetts"	"DOG"	3	TRUE	-0.040170829938073	2015-10-02
+"064"	"Carl"	"Hispanic"	"Male"	"No"	0	1971-11-30	"Texas"	"None"	99	TRUE	-0.223820510942969	2015-10-02
+"065"	"Evan"	"White"	"Male"	"FALSE"	66	1972-02-01	"Massachusetts"	"DOG"	2	TRUE	0.441050180113443	2015-10-02
+"066"	"Merrill"	"Asian"	"Female"	"Yes"	64	1972-05-25	"Oklahoma"	"CAT"	2	TRUE	0.700439425938793	2015-11-02
+"067"	"Jon"	"White"	"Male"	"FALSE"	70	1972-11-21	"Missouri"	"Cat"	2	TRUE	-0.829444210601183	2015-11-02
+"068"	"Shayne"	"White"	"Female"	"Yes"	73	1972-01-04	"New Jersey"	"Dog"	1	FALSE	-0.657566069251161	2015-11-02
+"069"	"Thomas"	"White"	"Male"	"FALSE"	67	1972-05-01	"Tennessee"	"Dog"	2	TRUE	0.511817591544333	2015-11-02
+"070"	"Valentine"	"Hispanic"	"Female"	"FALSE"	67	1972-02-21	"California"	"Dog"	3	TRUE	0.0939093830418896	2015-11-02
+"071"	"Cameron"	"Black"	"Female"	"TRUE"	68	1971-12-27	"New York"	"Dog"	1	TRUE	0.725752809571158	2015-12-02
+"072"	"Eddie"	"Hispanic"	" Male"	"FALSE"	60	1972-08-28	"Ohio"	"Bird"	2	TRUE	-1.37963422801328	2015-12-02
+"073"	"Brian"	"Hispanic"	"Male"	"FALSE"	64	1971-04-23	"California"	"Dog"	2	FALSE	-0.406956364570299	2015-12-02
+"074"	"Matthew"	"White"	" Female"	"FALSE"	69	1971-08-07	"Utah"	"None"	3	FALSE	-1.95374459308253	2015-12-02
+"075"	"Leslie"	"Asian"	"Male"	"FALSE"	62	1972-08-11	"Idaho"	"Dog"	2	FALSE	-1.02342013685113	2015-12-02
+"076"	"Jason"	"White"	"Female"	"FALSE"	67	1972-04-13	"California"	"None"	2	FALSE	-2.25888171238313	2016-01-02
+"077"	"Sol"	"White"	" Male"	"FALSE"	70	1971-09-16	"Texas"	"Cat"	3	TRUE	-1.08719433203751	2016-01-02
+"078"	"Connie"	"Black"	" Male"	"FALSE"	72	1972-05-30	"Ohio"	"Dog"	1	TRUE	1.19101823711986	2016-01-02
+"079"	"Rudy"	"White"	"Female"	"FALSE"	76	1972-03-16	"Texas"	"Cat"	2	FALSE	-0.171688705146141	2016-01-02
+"080"	"Michal"	"Hispanic"	"Female"	"FALSE"	68	1971-11-21	"Oklahoma"	"Dog"	3	FALSE	0.243874261475305	2016-01-02
+"081"	"Darnell"	"White"	"Female"	"TRUE"	75	1972-03-08	"Michigan"	"Cat"	2	TRUE	1.4017616179201	2016-01-02
+"082"	"Daryl"	"White"	"Female"	"TRUE"	66	1972-07-15	"Washington"	"Dog"	1	TRUE	0.696225155944701	2016-01-02
+"083"	"Jordan"	"White"	"Male"	"FALSE"	68	1972-04-18	"Mississippi"	"Bird"	2	TRUE	1.84917469445839	2016-01-02
+"084"	"Kenneth"	"White"	"Female"	"FALSE"	71	1971-04-03	"Florida"	"Dog"	3	FALSE	0.629624831350189	2016-01-02
+"085"	"Raymond"	"White"	" Female"	"FALSE"	0	1971-07-05	"Maine"	"Dog"	1	TRUE	1.73863902625833	2016-01-02
+"086"	"Elmer"	"White"	"Female"	"FALSE"	69	1972-09-29	"Wisconsin"	"Dog"	2	TRUE	-0.118820484291507	2016-01-02
+"087"	"Jimmy"	"White"	"Female"	"No"	66	1971-09-02	"Arkansas"	"None"	2	TRUE	1.29015279451402	2016-02-02
+"088"	"Whitney"	"White"	"Male"	"Yes"	65	1971-06-09	"Washington"	"Dog"	1	FALSE	-0.180600843134822	2016-02-02
+"089"	"Britt"	"White"	"Female"	"TRUE"	73	1972-06-26	"Florida"	"None"	99	TRUE	-1.8579032901108	2016-02-02
+"090"	"Logan"	"White"	"Male"	"FALSE"	67	1972-05-18	"Arizona"	"Cat"	2	FALSE	-0.936532675503502	2016-02-02
+"091"	"Terry"	"Hispanic"	"Male"	"FALSE"	67	1971-08-08	"Alabama"	"DOG"	99	TRUE	0.395204140281691	2016-02-02
+"092"	"Jamie"	"Hispanic"	"Male"	"TRUE"	66	1971-07-30	"Nebraska"	"None"	3	TRUE	-0.891109549298598	2016-02-02
+"093"	"Lacy"	"Hispanic"	"Female"	"FALSE"	64	1972-08-10	"Vermont"	"None"	1	TRUE	1.29172530233551	2016-02-02
+"094"	"Ronnie"	"White"	"Male"	"TRUE"	63	1972-04-03	"Tennessee"	"NONE"	3	FALSE	0.035328297518585	2016-02-02
+"095"	"Joseph"	"White"	"Female"	"FALSE"	67	1972-09-03	"Pennsylvania"	"Dog"	3	FALSE	-0.375806886140165	2016-02-02
+"096"	"Stacy"	"White"	"Female"	"FALSE"	64	1972-12-16	"Kentucky"	"CAT"	99	TRUE	0.504046608246553	2016-02-02
+"097"	"Anthony"	"White"	"Female"	"FALSE"	0	1971-06-19	"Arkansas"	"Dog"	1	FALSE	0.589343717340345	2016-02-02
+"098"	"Alva"	"White"	"Female"	"FALSE"	74	1972-12-29	"California"	"Dog"	3	TRUE	-0.426389451854734	2016-02-02
+"099"	"Dean"	"White"	"Female"	"FALSE"	63	1972-05-04	"Arkansas"	"Cat"	2	TRUE	-1.62169225182005	2016-02-02
+"100"	"Luis"	"Hispanic"	"Female"	"FALSE"	67	1971-09-05	"Minnesota"	"Dog"	2	TRUE	0.171343717598055	2016-02-02
