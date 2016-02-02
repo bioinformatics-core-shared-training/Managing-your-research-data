@@ -16,9 +16,10 @@ random_patients <- function(n) {
     id,
     name,
     race,
+    age,
     sex,
     smokes,
-    height,
+    height_cm(name = "Height"),
     birth(random = TRUE, x = NULL, start = Sys.Date() - 365 * 45, k = 365*2,by = "1 days"),
     state,
     pet,
@@ -44,11 +45,17 @@ rand_rows <- sample(1:100,10)
 patients$Smokes[rand_rows] <- sample(c("Yes","No"),10,replace=TRUE)
 ```
 
-2. Put some zeros in the `height` column
+2. Put some zeros in the `Age` column
 
 ```{r}
+
 rand_rows <- sample(1:100,10)
-patients$Height[rand_rows] <- 0
+patients$Age[rand_rows] <- 0
+```
+
+```{r}
+patients$Height <- as.character(patients$Height)
+patients$Height <- paste0(patients$Height,"cm")
 ```
 
 
@@ -94,6 +101,7 @@ patients$Grade_Level[rand_rows] <- 99
 
 
 ```{r}
+head(patients)
 write.table(patients, file="messy-data.txt",sep="\t",row.names = FALSE)
 ```
 
