@@ -9,3 +9,4 @@ This workshop will go through the basic principles that we can all adopt in orde
 - Getting data out of spreadsheets in a form ameanable for analysis with command-line tools
 - Best practices for data management and project management
 - Resources available at CRUK C.I. for data backup
+- Why you should share data, and associated resources available at the University of Cambridge
