@@ -1,7 +1,7 @@
 ---
 title: "Introduction and Principles"
 author: "Mark Dunning"
-date: "24 October 2016"
+date: '`r format(Sys.time(), "Last modified: %d %b %Y")`'
 output: html_document
 ---
 
@@ -38,19 +38,25 @@ Of course, you might not be performing the Bioinformatics analysis yourself. Bio
 # Are spreadsheets programs like Excel bad?
 
 
-Not neccesarily. It is often much more convenient to eye-ball a spreadsheet and get an overall impression of your data. But they have *limitations* making them not ideal for large-scale analyses. Doing things by-hand only invites you to make copy-and-paste errors. Here is a classic "off-by-one" error
+Not neccesarily. It is often much more convenient to eye-ball a spreadsheet and get an overall impression of your data. But they have *limitations* making them not ideal for large-scale analyses. Doing things by-hand only invites you to make copy-and-paste errors. For example, here is a classic "off-by-one" error
 
 ![](images/off-by-one.png)
 
 This example comes from probably the most (in)famous example of failure to reproduce a study, which actually *put people's lives at risk*. [Keith Baggerly's lecture](https://youtu.be/7gYIs7uYbMo) on the scandal is a ***must-see***.
 
-Your carefully-crafted, colourful, all-singing, all-dancing, multi-tab spreadsheet probably won't read very easily into R. By all means create a spreadsheet for your own benefit, but don't treat it as the same data that are analysed. Computers don't make any assumptions about the data. They won't be able to tell the difference between the text entries `MALE` and `male`, `Male`. You must be consistent in how you enter the data. Nor can they discern colours or other types of formatting in the data. 
+Your carefully-crafted, colourful, all-singing, all-dancing, multi-tab spreadsheet probably won't read very easily into R. By all means create a spreadsheet for your own benefit, but don't treat it as the same data that are analysed. Computers are very literal **don't make any assumptions about the data**. They won't be able to tell the difference between the text entries `MALE` and `male`, `Male`. You must be consistent in how you enter the data. Nor can they discern colours or other types of formatting in the data. 
+
+
+
+Unfortunately, at some points in the analysis process spreadsheets are *unavoidable*. Typically, you will have a set of biological samples that you wish to investigate. The ***metadata*** for the experiment is the means to describe what biological group each sample belongs to and other useful information such as the conditions under which each sample was derived (batch, cage) and other characteristics (sex, age) that might influence the analysis.
+
+![](images/metadata.png)
 
 We will introduce  [Open Refine](http://openrefine.org/), *a free open source, powerful tool for working with messy data* that can help to transform data.
 
 # General Principles
 
-Before discussing specific things to avoid in spreadsheets, here are some general principles we should try and stick to:-
+
 
 1) **Ensure you have a secure backup strategy**
 
@@ -67,26 +73,15 @@ Should be self-explanatory!
 
 [http://www.inquisitr.com/309687/jesus-painting-restoration-goes-wrong-well-intentioned-old-lady-destroys-100-year-old-fresco/](http://www.inquisitr.com/309687/jesus-painting-restoration-goes-wrong-well-intentioned-old-lady-destroys-100-year-old-fresco/)
 
-Ideally we adopt a practice of having a raw data file and recording the changes made to it
 
-- Even better if the recording is automated
-- Saves having to backup multiple large datasets
 
 3) **Keep track the files in your project**
 
-- Part of an analysis being reproducible is knowing exactly what files were used.
-- Having files called `data1.xls`, `data2.xls` is not great!
-- Include any information that will allow you to distinguish your files from one another
-    + project or experiment name or acronym
-    + Date in`YYYYMMDDD` or `YYMMDD` form
-    + Conditions
-    + Version number
-- Avoid *special characters* `~!@#$%^&()\``;<>,[]{}'`
-- Make sure everyone is working from the same data
+
 
 4) **Embrace version control**
 
-*Versioning* refers to saving new copies of your files when you make changes allowing you to reverse or roll back those changes or retrieve specific versions of your files later. Doesn't need to be involve a sophisticated software solution
+Doesn't need to be involve a sophisticated software solution
 
 ![](images/phd101212s.gif)
 
