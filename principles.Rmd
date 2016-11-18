@@ -48,23 +48,17 @@ Your carefully-crafted, colourful, all-singing, all-dancing, multi-tab spreadshe
 
 
 
-Unfortunately, at some points in the analysis process spreadsheets are *unavoidable*. Typically, you will have a set of biological samples that you wish to investigate. The ***metadata*** for the experiment is the means to describe what biological group each sample belongs to and other useful information such as the conditions under which each sample was derived (batch, cage) and other characteristics (sex, age) that might influence the analysis.
+Unfortunately, at some points in the analysis process spreadsheets are *unavoidable*. Typically, you will have a set of biological samples that you wish to investigate. The ***metadata*** for the experiment is the description of what biological group each sample belongs to and other useful information such as the conditions under which each sample was derived (e.g. batch, cage) and other characteristics of confounding factors (e.g. sex, age) that might influence the analysis.
 
 ![](images/metadata.png)
 
-We will introduce  [Open Refine](http://openrefine.org/), *a free open source, powerful tool for working with messy data* that can help to transform data.
+The metadata are required as part of a data submission. Even if we take great care of our own metadata, others who make their data available or collaborate might not be so careful. We will introduce  [Open Refine](http://openrefine.org/), *a free open source, powerful tool for working with messy data* that can help to transform data.
 
 # General Principles
 
+1) **Make sure your files are amenable for analysis**
 
-
-1) **Ensure you have a secure backup strategy**
-
-Should be self-explanatory!
-
-![Cambridge News; Jan 30th 2016](images/phd-stolen.png)
-
-
+We will discuss this point in more detail in the next section.
 
 2) **Never work directly on the raw data**
 
@@ -74,8 +68,13 @@ Should be self-explanatory!
 [http://www.inquisitr.com/309687/jesus-painting-restoration-goes-wrong-well-intentioned-old-lady-destroys-100-year-old-fresco/](http://www.inquisitr.com/309687/jesus-painting-restoration-goes-wrong-well-intentioned-old-lady-destroys-100-year-old-fresco/)
 
 
+3) **Ensure you have a secure backup strategy**
 
-3) **Keep track the files in your project**
+Should be self-explanatory!
+
+![Cambridge News; Jan 30th 2016](images/phd-stolen.png)
+
+
 
 
 
@@ -86,11 +85,18 @@ Doesn't need to be involve a sophisticated software solution
 ![](images/phd101212s.gif)
 
 
-5) **Make sure your files are amenable for analysis**
 
+# Plan for the workshop
 
-We will discuss this point in more detail in the next section.
-
+- Data formatting issues
+    + how can we make sure our files are readable by computers
+    + what mistakes to avoid
+- Open Refine demo
+    + how we can clean-up files
+- How to manage the files in a project
+- How to keep a backup
+- How (and why) to share with others
+    + and what resources are available
 
 # References
 
