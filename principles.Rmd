@@ -42,7 +42,9 @@ Not neccesarily. It is often much more convenient to eye-ball a spreadsheet and 
 
 ![](images/off-by-one.png)
 
-This example comes from probably the most (in)famous example of failure to reproduce a study, which actually *put people's lives at risk*. [Keith Baggerly's lecture](https://youtu.be/7gYIs7uYbMo) on the scandal is a ***must-see***.
+This example comes from probably the most (in)famous example of failure to reproduce a study, which actually *put people's lives at risk*. Keith Baggerly's lecture on the scandal is a ***must-see***.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7gYIs7uYbMo" frameborder="0" allowfullscreen></iframe>
 
 Your carefully-crafted, colourful, all-singing, all-dancing, multi-tab spreadsheet probably won't read very easily into R. By all means create a spreadsheet for your own benefit, but don't treat it as the same data that are analysed. Computers are very literal **don't make any assumptions about the data**. They won't be able to tell the difference between the text entries `MALE` and `male`, `Male`. You must be consistent in how you enter the data. Nor can they discern colours or other types of formatting in the data. 
 
@@ -50,9 +52,12 @@ Your carefully-crafted, colourful, all-singing, all-dancing, multi-tab spreadshe
 
 Unfortunately, at some points in the analysis process spreadsheets are *unavoidable*. Typically, you will have a set of biological samples that you wish to investigate. The ***metadata*** for the experiment is the description of what biological group each sample belongs to and other useful information such as the conditions under which each sample was derived (e.g. batch, cage) and other characteristics of confounding factors (e.g. sex, age) that might influence the analysis.
 
+******
 ![](images/metadata.png)
+******
 
 The metadata are required as part of a data submission. Even if we take great care of our own metadata, others who make their data available or collaborate might not be so careful. We will introduce  [Open Refine](http://openrefine.org/), *a free open source, powerful tool for working with messy data* that can help to transform data.
+
 
 # General Principles
 
@@ -84,6 +89,15 @@ Doesn't need to be involve a sophisticated software solution
 
 ![](images/phd101212s.gif)
 
+5) Organise your files
+
+![](images/450px-Istituto_agronomico_per_l'oltremare,_int.,_biblioteca,_schedario_05.JPG)
+
+
+6) Document everything
+
+- Where the latest version of the analysis is
+- What all the columns in the file mean
 
 
 # Plan for the workshop
