@@ -98,7 +98,7 @@ Doesn't need to be involve a sophisticated software solution
 
 - Where the latest version of the analysis is
 - What all the columns in the file mean
-
+- A simple `README` file is adequate
 
 # Plan for the workshop
 
@@ -119,6 +119,12 @@ Doesn't need to be involve a sophisticated software solution
 - [Three common bad practices in sharing tables and spreadsheets and how to avoid them.](http://luisdva.github.io/pls-don't-do-this/)
 - [The Data Organisation tutorial by Karl Broman](http://kbroman.org/dataorg/)
 - [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
+
+# Other courses of interest
+
+- [Data Carpentry](http://training.csx.cam.ac.uk/bioinformatics/event/1923870) 18th and 19th January 2017
+    + Going from data formatting to analysis in R and SQL 
+- [Github for beginners](https://www.eventbrite.co.uk/e/beginners-guide-to-version-control-with-git-and-github-tickets-29485208051) 13th January 2017
 
 # Acknowledgments
 
