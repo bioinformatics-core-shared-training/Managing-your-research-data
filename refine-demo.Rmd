@@ -131,7 +131,7 @@ Open Refine has it's own language ("General Refine Expression language (GREL)") 
 The `Height` and `Weight` columns are problematic because they contain the units information (`kg` and `cm` respectively). Languages such as R will interpret the values in such a column as text, and not numeric data. Simple plotting and numeric analysis will not be possible without extra manipulation. 
 
 - Select the `Height` column
-- Select ***Transform...***
+- Select ***Edit cells*** -> ***Transform...***
 - In the Expression box, enter `replace(value, "cm","")`
 
 
@@ -139,6 +139,7 @@ The `Height` and `Weight` columns are problematic because they contain the units
 
 - Can you split the `Birth` column into Year, Month and Day?
 - Can you make the `Smokes` column suitable for analysis?
+- Tidy up the `Weight` column for analysis
 - The `Race` column contains one value that is very suspicious...Can you find it and change it to something suitable?
 - Look at the `State` column and try faceting / clustering?. Are there any entries that should be joined into one? You may need to experiment with different clustering methods.
 
