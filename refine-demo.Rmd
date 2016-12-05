@@ -81,7 +81,7 @@ Now try the text facet operation from above. What do you notice?
 
 ## Clustering
 
-*Clustering* in Open Refine is used to identify and consolidate similar entries into a consistent term. We could have actually used this in the previous example as ` Male`, ` Male ` and `Male` are essentially representing the same thing. Let's try this on the `Pet` column. The first thing we will notice is that `Cat` and `CAT` are distinct entries but probably shouldn't be. We can fix that by clustering
+*Clustering* in Open Refine is used to identify and consolidate similar entries into a consistent term. Let's try this on the `Pet` column. The first thing we will notice is that `Cat` and `CAT` are distinct entries but probably shouldn't be. We can fix that by clustering
 
 - Select the `Pet` colum
 - ***Facet*** -> ***Text Facet*** as before
