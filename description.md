@@ -1,12 +1,15 @@
-# Outline
+# Description
+ 
+ - How much data would you lose if your laptop was stolen?
+ - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?
+ - Have you ever tried to struggled to import your spreadsheets into R?
 
-It has been said that 80% of data analysis is spent on the process of cleaning and preparing the data. Not only does this represent a significant time investment for the data analyst, but is often a hurdle for the non-specialist trying to get to grips with analysing their own data after attending an R or Python course. Despite the best intentions, a spreadsheet that is intuitive and easily-understandable by human eyes can lead to disaster when trying to process computationally.
+As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect this information, you will need to organise it. This workshop will go through the basic principles that we can all adopt in order to work with data more effectively. We will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
 
-This workshop will go through the basic principles that we can all adopt in order to work with data more effectively and "think like a computer". Moreover, we will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
-
-# Aims: During this course you will learn about
-- How to use spreadsheet programs (such as Excel) more effectively, and the limitations of such programs
-- Getting data out of spreadsheets in a form ameanable for analysis with command-line tools
-- Best practices for data management and project management
-- Resources available at CRUK C.I. for data backup
-- Why you should share data, and associated resources available at the University of Cambridge
+# Aims: During this course you will learn about:
+  - Strategies for backing up your computer
+  - Strategies for naming and organising your files
+  - Strategies for file exchange with collaborators
+  - Tips and tricks to make sure your spreadsheets are readable by programming languages such as R
+  - Use of the OpenRefine software for data cleaning
+  - Preparing high-throughput biological data for submission to a public repository such as Gene Expression Omnibus or ArrayExpress  
