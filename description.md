@@ -1,6 +1,6 @@
 # Avoiding Data Disasters: Best practices in Data Management for the Biological Sciences
 
-## Wednesday 12th July; 13:00 - 16:30; Cancer Research Uk Cambridge Institute
+## Wednesday 12th July; 13:30 - 16:30; Cancer Research Uk Cambridge Institute
 
 
 # Description
