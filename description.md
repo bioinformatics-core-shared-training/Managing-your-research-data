@@ -1,5 +1,8 @@
 # Avoiding Data Disasters: Best practices in Data Management for the Biological Sciences
 
+## Wednesday 12th July; 13:00 - 16:30; Cancer Research Uk Cambridge Institute
+
+
 # Description
  
  - How much data would you lose if your laptop was stolen?
