@@ -18,3 +18,10 @@ As a researcher, you will encounter research data in many forms, ranging from me
   - Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R
   - Learn how to use the OpenRefine software for data cleaning
   - Preparing high-throughput biological data for submission to a public repository such as Gene Expression Omnibus (GEO) or ArrayExpress  
+
+# Objectives: After this course you should be able to:
+
+- Select an appropriate backup strategy for your data
+- Organise your files in a more structured and consistent manner
+- Avoid common pitfalls in spreadsheet manipulation
+- Known what resources are available at The University of Cambridge for Research Data Management
