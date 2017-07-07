@@ -31,7 +31,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [Data Formatting](https://datachampcam.github.io/data-formatting/#/)
 - [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
 - [File Management Best Practices]()
-- [Data Sharing](https://datachampcam.github.io/data-formatting/#/)
+- [Data Sharing](https://datachampcam.github.io/data-sharing/#/)
 
 # References
 
