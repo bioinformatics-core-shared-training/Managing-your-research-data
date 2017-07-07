@@ -1,14 +1,43 @@
 # Avoiding data disasters
 
-## Outline
+# Description
+ 
+ - How much data would you lose if your laptop was stolen?
+ - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?
+ - Have you ever struggled to import your spreadsheets into R?
 
-It has been said that 80% of data analysis is spent on the process of cleaning and preparing the data. Not only does this represent a significant time investment for the data analyst, but is often a hurdle for the non-specialist trying to get to grips with analysing their own data after attending an R or Python course. Despite the best intentions, a spreadsheet that is intuitive and easily-understandable by human eyes can lead to disaster when trying to process computationally. 
+As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect data, you will certainly need to organise it at some stage of your project. This workshop will provide an overview of some basic principles on how we can work with data more effectively. We will discuss the best practices for research data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
 
-This workshop will go through the basic principles that we can all adopt in order to work with data more effectively and "think like a computer". Moreover, we will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
+# Aims: During this course you will learn about:
+  - Options for backing up your computer
+  - Ideas for naming and organising your files
+  - Strategies for exchanging files with collaborators
+  - Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R
+  - Learn how to use the OpenRefine software for data cleaning
+  - Preparing high-throughput biological data for submission to a public repository such as Gene Expression Omnibus (GEO) or ArrayExpress  
 
-## Timetable
+# Objectives: After this course you should be able to:
 
-- 12:30 - 13:00 Andy - philosophical introduction
-- 13:00 - 14:30 Sergio / Valeria - Typical problems talk + practical
-- 14:30 - 15:00 Anne - File management
-- 15:00 - 15:30 Peter - Strategies for backup
+- Select an appropriate backup strategy for your data
+- Organise your files in a more structured and consistent manner
+- Avoid common pitfalls in spreadsheet manipulation
+- Known what resources are available at The University of Cambridge for Research Data Management
+
+# Materials
+
+- [Data Formatting](https://datachampcam.github.io/data-formatting/#/)
+- [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
+- [File Management Best Practices]()
+- [Data Sharing](https://datachampcam.github.io/data-formatting/#/)
+
+# References
+
+- [Data Carpentry Workshops](http://lgatto.github.io/2016-05-16-CAM/)
+- [The Data Organisation Tutorial by Karl Broman](http://kbroman.org/dataorg/)
+- [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/blob/master/README.md)
+- [Three common bad practices in sharing tables and spreadsheets and how to avoid them](http://luisdva.github.io/pls-don't-do-this/)
+- [Open Data at Cambridge](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/www.data.cam.ac.uk)
+- [Five Selfish Reasons to work reproducibly - Florian Markowetz](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
+- [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
+- [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
+
