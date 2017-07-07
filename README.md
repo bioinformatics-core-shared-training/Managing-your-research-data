@@ -36,7 +36,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [The Data Organisation Tutorial by Karl Broman](http://kbroman.org/dataorg/)
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/blob/master/README.md)
 - [Three common bad practices in sharing tables and spreadsheets and how to avoid them](http://luisdva.github.io/pls-don't-do-this/)
-- [Open Data at Cambridge](http://bioinformatics-core-shared-training.github.io//avoid-data-disaster/www.data.cam.ac.uk)
+- [Open Data at Cambridge](www.data.cam.ac.uk)
 - [Five Selfish Reasons to work reproducibly - Florian Markowetz](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
 - [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
 - [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
