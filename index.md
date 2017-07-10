@@ -32,7 +32,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
 - [File Management Best Practices]()
 - [Data Sharing](https://datachampcam.github.io/data-sharing/#/)
-- [Patient Data for practicals](patient-data.txt)
+- [Patient Data for practicals](patient-data.txt) - Right-click on link and select *Save Link As...*
 
 # References
 
