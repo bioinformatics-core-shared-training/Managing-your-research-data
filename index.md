@@ -2,6 +2,9 @@
 
 ## Wednesday 12th July; 13:30 - 16:30; Cancer Research UK - Cambridge Institute, University of Cambridge
 
+### Brought to you by the Cambridge University [Data Champions](http://www.data.cam.ac.uk/intro-data-champions)
+
+
 
 # Description
  
