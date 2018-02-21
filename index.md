@@ -1,6 +1,6 @@
 # Avoiding Data Disasters: Best practices in Research Data Management for Biological Sciences
 
-## When and where?
+# When and where?
 
 - Friday 23rd February 2018; 12:30 - 16:30; eLearning 3 - School of Clinical Medicine
 - Wednesday 12th July 2017; 13:30 - 16:30; Cancer Research UK - Cambridge Institute, University of Cambridge
