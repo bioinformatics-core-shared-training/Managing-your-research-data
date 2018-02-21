@@ -1,10 +1,11 @@
 # Avoiding Data Disasters: Best practices in Research Data Management for Biological Sciences
 
-## Wednesday 12th July; 13:30 - 16:30; Cancer Research UK - Cambridge Institute, University of Cambridge
+## When and where?
+
+- Friday 23rd February 2018; 12:30 - 16:30; eLearning 3 - School of Clinical Medicine
+- Wednesday 12th July 2017; 13:30 - 16:30; Cancer Research UK - Cambridge Institute, University of Cambridge
 
 ### Brought to you by the Cambridge University [Data Champions](http://www.data.cam.ac.uk/intro-data-champions)
-
-
 
 # Description
  
@@ -24,9 +25,9 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 # Objectives: After this course you should be able to:
 
-- Select an appropriate backup strategy for your data
+- Differentiate the pros and cons of using spreadsheets and avoid the common pitfalls in spreadsheet manipulation
+- Use an appropriate backup strategy for your data
 - Organise your files in a more structured and consistent manner
-- Avoid common pitfalls in spreadsheet manipulation
 - Known what resources are available at The University of Cambridge for Research Data Management
 
 # Materials
