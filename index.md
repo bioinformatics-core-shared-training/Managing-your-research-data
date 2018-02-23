@@ -8,7 +8,7 @@
 ### Brought to you by the Cambridge University [Data Champions](http://www.data.cam.ac.uk/intro-data-champions)
 
 # Description
- 
+
  - How much data would you lose if your laptop was stolen?
  - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?
  - Have you ever struggled to import your spreadsheets into R?
@@ -32,11 +32,12 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 # Materials
 
-- [Data Formatting](https://datachampcam.github.io/data-formatting/#/)
+- [Data Formatting](data-formatting.pdf)
 - [Open Refine Demo](https://datachampcam.github.io/refine-demo/demo)
-- [File Management Best Practices](https://rawgit.com/datachampcam/file-management/master/20170712_FileManagement.pdf)
+- [File Management Best Practices](file-management.pdf)
 - [Data Sharing](https://datachampcam.github.io/data-sharing/#/)
 - [Patient Data for practicals](patient-data.txt) - Right-click on link and select *Save Link As...*
+- [Electronic whiteboard (Etherpad)](https://public.etherpad-mozilla.org/p/2018-2-23-cruk-ci-add)
 
 # References
 
@@ -48,6 +49,3 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [Five Selfish Reasons to work reproducibly - Florian Markowetz](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
 - [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
 - [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
-
-
-
