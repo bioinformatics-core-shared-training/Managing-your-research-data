@@ -50,3 +50,4 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [Five Selfish Reasons to work reproducibly - Florian Markowetz](http://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0850-7)
 - [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
 - [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
+- [Managing and sharing data, UK Data Archive](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)
