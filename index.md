@@ -41,7 +41,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 # References
 
-- [Data Carpentry Open Refine for Ecology](http://www.datacarpentry.org/OpenRefine-ecology-lesson/setup/)
+- [Data Carpentry Open Refine for Ecology](http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
 - [Data Carpentry Workshops](http://lgatto.github.io/2016-05-16-CAM/)
 - [The Data Organisation Tutorial by Karl Broman](http://kbroman.org/dataorg/)
 - [The Quartz guide to bad data](https://github.com/Quartz/bad-data-guide/blob/master/README.md)
