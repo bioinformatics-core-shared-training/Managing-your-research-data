@@ -51,3 +51,4 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [Keith Baggerly lecture on Duke reproducibility scandal](https://youtu.be/7gYIs7uYbMo)
 - [Biologists: this is why bioinformaticians hate you...](http://www.opiniomics.org/biologists-this-is-why-bioinformaticians-hate-you/)
 - [Managing and sharing data, UK Data Archive](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)
+- [Information Compliance - Data protection](https://www.information-compliance.admin.cam.ac.uk/data-protection)
