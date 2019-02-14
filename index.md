@@ -12,11 +12,13 @@ This workshop will go through the basic principles that we can all adopt in orde
 effectively and "think like a computer". Moreover, we will discuss the best practices for data management 
 and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
 
-|   | Timetable for 5th December 2016  |
+|   | Timetable for 26th February 2019  |
 |---|---|
-| 12:30 - 13:00  |  Course Introduction and general Principles  |
-| 13:00 - 14:00  |  Data formatting issues Files for practical:- Example 1 Example 2 |
-|  14:00 - 15:00 |  Open Refine demo Example file here |
-|  15:00 - 15:30 |  File management  |
-|  15:30 - 16:00 |  Strategies for backup |
-|  16:00 - 16:30 |  Data Sharing at the University of Cambridge |
+|  12:30 - 13:30 |  Introduction, Data Management Plans & Data formatting* (MF)  |
+|  13:30 - 14:30 |  OpenRefine practical (Live coding) (MF+JS+AP) |
+|  14:30 - 14:45 |  Break - Tea, coffee & cookies |
+|  14:45 - 15:35 |  File management* (JS)  |
+|  15:35 - 16:20 |  Backup & Sharing* (AP) |
+|  16:20 - 16:30 |  Wrap-up & close |
+
+
