@@ -38,7 +38,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 - [File Management Best Practices](file-management.pdf)
 - [Data Sharing](https://datachampcam.github.io/data-sharing/#/)
 - [Patient Data for practicals](patient-data.txt) - Right-click on link and select *Save Link As...*
-- [Electronic whiteboard (Etherpad)](https://public.etherpad-mozilla.org/p/2018-2-23-cruk-ci-add)
+- [Electronic whiteboard (Etherpad)](https://public.etherpad-mozilla.org/p/2019-2-26-cruk-ci-myrd)
 
 # References
 
