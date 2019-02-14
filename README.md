@@ -2,7 +2,7 @@
 
 # When and where?
 
-- _Friday 23rd February 2019; 12:30 - 16:30; eLearning 3 - School of Clinical Medicine
+- Friday 23rd February 2019; 12:30 - 16:30; eLearning 1 - School of Clinical Medicine, Addenbrookes site
 
 ### Brought to you by the Cambridge University [Data Champions](http://www.data.cam.ac.uk/intro-data-champions)
 
