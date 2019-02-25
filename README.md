@@ -10,7 +10,7 @@
 
 ## Materials
 
-- [Introduction, Data Management Plans & Data formatting](data_management.pdf)
+- [Introduction, Data Management Plans](data_management.pdf)
 - [Data Formatting](data_formatting.pdf)
 - [Open Refine Practical](refine_demo.pdf)
 - [File Management Best Practices](file_management.pdf)
