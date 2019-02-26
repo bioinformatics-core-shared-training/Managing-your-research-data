@@ -15,12 +15,9 @@
 - [Open Refine Practical](refine_demo.pdf)
 - [File Management Best Practices](file_management.pdf)
 - [Data Sharing & Backup](data_sharing_backup.pdf)
+- [Quizz](https://goo.gl/forms/njTHfyBoOqiAmDA23)
 - [Excel practical](excel.md)
-
-
 - [Patient Data for practicals](patient_data.txt) - Right-click on link and select *Save Link As...*
-
-
 - [Electronic whiteboard (Etherpad)](https://public.etherpad-mozilla.org/p/2019-2-26-cruk-ci-myrd)
 
 ## References
