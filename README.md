@@ -11,7 +11,7 @@
 ## Materials
 
 - [Introduction, Data Management Plans](data_management.pdf)
-- [Data Formatting](data_formatting.pdf)
+- [Data Formatting](data_formatting.pdf) Also contains a Data Management plan practical.   
 - [Open Refine Practical](refine_demo.pdf)
 - [File Management Best Practices](file_management.pdf)
 - [Data Sharing & Backup](data_sharing_backup.pdf)
