@@ -8,7 +8,7 @@
 | Slot  | Topics covered  |
 |---|---|
 |  12:30 - 13:30 |  [Introduction, Data Management Plans](data_management.pdf) & [Data formatting](data_formatting.pdf) (MF)  |
-|  13:30 - 14:30 |  [OpenRefine practical (Live coding)](refine_demo.pdf) (MF+JS+AP) |
+|  13:30 - 14:30 |  [OpenRefine practical (Live coding)](refine_demo.pdf)[DMP-Data formatting exercise]() (MF+JS+AP) |
 |  14:30 - 14:45 |  Break - Tea, coffee & cookies |
 |  14:45 - 15:35 |  [File management](file_management.pdf) (JS)  |
 |  15:35 - 16:20 |  [Data Sharing & Backup](data_sharing_backup.pdf) (AP) |
