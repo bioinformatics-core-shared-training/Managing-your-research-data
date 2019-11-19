@@ -4,7 +4,6 @@
 
 - Thursday 28th November 2019; 12:30 - 17:00; eLearning 3 - School of Clinical Medicine, Addenbrookes site
 
-
 ## Outline
 
 It has been said that 80% of data analysis is spent on the process of cleaning and preparing the data. Not only does this represent a significant time investment for the data analyst, but is often a hurdle for the non-specialist trying to get to grips with analysing their own data after attending an R or Python course. Despite the best intentions, a spreadsheet that is intuitive and easily-understandable by human eyes can lead to disaster when trying to process computationally.
@@ -39,11 +38,11 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ## Timetable
 
-|   | Timetable for 26th February 2019  |
+|   | Timetable for 28th November 2019  |
 |---|---|
 |  12:30 - 13:30 |  [Introduction, Data Management Plans](data_management.pdf) & [Data formatting](data_formatting.pdf) (MF)  |
 |  13:30 - 14:30 |  [OpenRefine practical (Live coding)](refine_demo.pdf) (MF+JS+AP) |
 |  14:30 - 14:45 |  Break - Tea, coffee & cookies |
 |  14:45 - 15:35 |  [File management](file_management.pdf) (JS)  |
 |  15:35 - 16:20 |  [Data Sharing & Backup](data_sharing_backup.pdf) (AP) |
-|  16:20 - 16:30 |  Wrap-up & close |
+|  16:45 - 17:00 |  Wrap-up & close |
