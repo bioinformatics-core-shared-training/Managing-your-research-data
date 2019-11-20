@@ -18,7 +18,7 @@
 - [Quiz](https://goo.gl/forms/njTHfyBoOqiAmDA23)
 - [Excel practical](excel.md)
 - [Patient Data for practicals](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt) - Right-click on link and select *Save Link As...*
-- [Electronic whiteboard (Etherpad)](https://public.etherpad-mozilla.org/p/2019-2-26-cruk-ci-myrd)
+- [Electronic whiteboard (Etherpad)](https://etherpad.wikimedia.org/p/myrd28_11_19)
 
 ## References
 
