@@ -2,7 +2,7 @@
 
 ## When and where?
 
-- Tuesday 26th February 2019; 12:30 - 16:30; eLearning 1 - School of Clinical Medicine, Addenbrookes site
+- Thursday 28th November 2019; 12:30 - 17:00; eLearning 3 - School of Clinical Medicine, 
 
 ## Description and timetable
 
