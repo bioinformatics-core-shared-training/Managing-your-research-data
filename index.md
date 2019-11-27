@@ -43,8 +43,8 @@ As a researcher, you will encounter research data in many forms, ranging from me
 |  12:30 - 12:50 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
 |  12:50 - 13:30 | [Data formatting](data_formatting.pdf) (Mark)  |
 |  13:30 - 14:15 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
-|  14:15 - 14:30 |  Break - Tea, coffee & biscuits |
-|  14:30 - 15:10 |  [File management](file_management.pdf) (Ash)  |
+|  14:15 - 14:55 |  [File management](file_management.pdf) (Ash)  |
+|  14:55 - 15:10 |  Break - Tea, coffee & biscuits |
 |  15:10 - 15:30 |  [File management in DMP practical](File_man_pract.md) (Ash&Mark)  |
 |  15:30 - 16:10 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
 |  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
