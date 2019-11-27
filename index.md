@@ -45,7 +45,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 |  13:30 - 14:15 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
 |  14:15 - 14:30 |  Break - Tea, coffee & biscuits |
 |  14:30 - 15:10 |  [File management](file_management.pdf) (Ash)  |
-|  15:10 - 15:30 |  [File management in DMP practical](file_management.pdf) (Ash&Mark)  |
+|  15:10 - 15:30 |  [File management in DMP practical](File_man_pract.md) (Ash&Mark)  |
 |  15:30 - 16:10 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
-|  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_sharing_backup.pdf) (Mark&Ash) |
+|  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
 |  16:45 - 17:00 |  Wrap-up & close |
