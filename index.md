@@ -62,3 +62,10 @@ As a researcher, you will encounter research data in many forms, ranging from me
 |  16:45 - 17:00 |  Wrap-up & close |
 
 [Data for OpenRefine practical - right click for download ](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
+
+### Example Data Management Plans for practicals
+[DMP1](DMPs/7.3 Full life cycle Report.pdf)
+[DMP2](DMPs/Media_418168_smxx.pdf)
+[DMP3](DMPs/Media_442573_smxx.pdf)
+[DMP4](DMPs/RIO_article_11624.pdf)
+[DMP5](DMPs/esrc_z-proso-DMP.pdf)
