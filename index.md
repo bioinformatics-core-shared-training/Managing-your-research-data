@@ -25,7 +25,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 ## Aims: During this course you will learn about:
 <Details>
   <Summary>Click here to expand</Summary>
-<ul>
+  <ul>
   <li>- What Research Funders expect</li>
   <li>- Options for backing up your computer</li>
   <li>- Ideas for naming and organising your files</li>
@@ -35,12 +35,17 @@ As a researcher, you will encounter research data in many forms, ranging from me
   <li>- Preparing high-throughput biological data for submission to a public repository</li>
   </ul>
 </details>
-## Objectives: After this course you should be able to:
 
-- Select an appropriate backup strategy for your data
-- Organise your files in a more structured and consistent manner
-- Avoid common pitfalls in spreadsheet manipulation
-- Known what resources are available at The University of Cambridge for Research Data Management
+## Objectives: After this course you should be able to:
+<Details>
+  <Summary>Click here to expand</Summary>
+  <ul>
+ <li>- Select an appropriate backup strategy for your data</li>
+ <li>- Organise your files in a more structured and consistent manner</li>
+ <li>- Avoid common pitfalls in spreadsheet manipulation</li>
+ <li>- Known what resources are available at The University of Cambridge for Research Data Management</li>
+  </ul>
+</details>
 
 ## Timetable
 
