@@ -16,22 +16,25 @@ This workshop will go through the basic principles that we can all adopt in orde
   <ul>
     <li> - Do you know what a Data Management Plan is and what it covers?  </li> 
     <li> - How much data would you lose if your laptop was stolen?    </li>
-    <li> - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?  <li> 
+    <li> - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?  </li> 
     <li> - Have you ever struggled to import your spreadsheets into R?  </li> 
   </ul>
 As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect data, you will certainly need to organise it at some stage of your project. This workshop will provide an overview of some basic principles on how we can work with data more effectively. We will discuss the best practices for research data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
 </details>
 
 ## Aims: During this course you will learn about:
-
-- What Research Funders expect
-- Options for backing up your computer
-- Ideas for naming and organising your files
-- Strategies for exchanging files with collaborators
-- Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R
-- Learn how to use the OpenRefine software for data cleaning
-- Preparing high-throughput biological data for submission to a public repository
-
+<Details>
+  <Summary>Click here to expand</Summary>
+<ul>
+  <li>- What Research Funders expect</li>
+  <li>- Options for backing up your computer</li>
+  <li>- Ideas for naming and organising your files</li>
+  <li>- Strategies for exchanging files with collaborators</li>
+<li>- Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R</li>
+  <li>- Learn how to use the OpenRefine software for data cleaning</li>
+  <li>- Preparing high-throughput biological data for submission to a public repository</li>
+  </ul>
+</details>
 ## Objectives: After this course you should be able to:
 
 - Select an appropriate backup strategy for your data
