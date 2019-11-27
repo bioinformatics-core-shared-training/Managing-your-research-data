@@ -65,8 +65,8 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ### Example Data Management Plans for practicals
 
-[DMP1](DMPs/Full_life_cycle_Report.pdf)
-[DMP2](DMPs/Media_418168_smxx.pdf)
-[DMP3](DMPs/Media_442573_smxx.pdf)
-[DMP4](DMPs/RIO_article_11624.pdf)
-[DMP5](DMPs/esrc_z-proso-DMP.pdf)
+[Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
+[Drosophila BBSRC project](DMPs/Media_418168_smxx.pdf).  
+[Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
+[Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
+[Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
