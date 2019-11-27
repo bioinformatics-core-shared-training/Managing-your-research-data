@@ -61,6 +61,8 @@ As a researcher, you will encounter research data in many forms, ranging from me
 |  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
 |  16:45 - 17:00 |  Wrap-up & close |
 
+[Please fill in the feedback survey](https://www.surveymonkey.co.uk/r/ResDataNov19)
+
 [Data for OpenRefine practical - right click for download ](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
 
 ### Example Data Management Plans for practicals
