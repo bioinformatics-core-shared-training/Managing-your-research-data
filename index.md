@@ -11,13 +11,15 @@ It has been said that 80% of data analysis is spent on the process of cleaning a
 This workshop will go through the basic principles that we can all adopt in order to work with data more effectively and “think like a computer”. Moreover, we will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
 
 ## Description
-
+<Details>
+  <Summary>Click here to expand</Summary>
 - Do you know what a Data Management Plan is and what it covers?
 - How much data would you lose if your laptop was stolen?
   - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?
   - Have you ever struggled to import your spreadsheets into R?
 
 As a researcher, you will encounter research data in many forms, ranging from measurements, numbers and images to documents and publications. Whether you create, receive or collect data, you will certainly need to organise it at some stage of your project. This workshop will provide an overview of some basic principles on how we can work with data more effectively. We will discuss the best practices for research data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
+</details>
 
 ## Aims: During this course you will learn about:
 
@@ -49,3 +51,5 @@ As a researcher, you will encounter research data in many forms, ranging from me
 |  15:30 - 16:10 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
 |  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
 |  16:45 - 17:00 |  Wrap-up & close |
+
+[Data for OpenRefine practical - right click for download ](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
