@@ -70,3 +70,5 @@ As a researcher, you will encounter research data in many forms, ranging from me
 [Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
 [Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
 [Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
+
+[A Data management plan checklist](DMP_Checklist_2013.pdf).  
