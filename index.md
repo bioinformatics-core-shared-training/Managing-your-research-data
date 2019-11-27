@@ -40,9 +40,12 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 |   | Timetable for 28th November 2019  |
 |---|---|
-|  12:30 - 13:30 |  [Introduction, Data Management Plans](data_management.pdf) & [Data formatting](data_formatting.pdf) (MF)  |
-|  13:30 - 14:30 |  [OpenRefine practical (Live coding)](refine_demo.pdf) (MF+JS+AP) |
-|  14:30 - 14:45 |  Break - Tea, coffee & cookies |
-|  14:45 - 15:35 |  [File management](file_management.pdf) (JS)  |
-|  15:35 - 16:20 |  [Data Sharing & Backup](data_sharing_backup.pdf) (AP) |
+|  12:30 - 12:50 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
+|  12:50 - 13:30 | [Data formatting](data_formatting.pdf) (Mark)  |
+|  13:30 - 14:15 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
+|  14:15 - 14:30 |  Break - Tea, coffee & biscuits |
+|  14:30 - 15:10 |  [File management](file_management.pdf) (Ash)  |
+|  15:10 - 15:30 |  [File management in DMP practical](file_management.pdf) (Ash&Mark)  |
+|  15:30 - 16:10 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
+|  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_sharing_backup.pdf) (Mark&Ash) |
 |  16:45 - 17:00 |  Wrap-up & close |
