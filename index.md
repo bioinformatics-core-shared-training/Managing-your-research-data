@@ -1,5 +1,6 @@
 # Managing your Research Data: Best practices in Research Data Management for Biological Sciences
 
+## https://tinyurl.com/cruk-myrd
 ## When and where?
 
 - Thursday 28th November 2019; 12:30 - 17:00; eLearning 3 - School of Clinical Medicine, Addenbrookes site
