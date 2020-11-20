@@ -3,13 +3,13 @@
 ## https://tinyurl.com/cruk-myrd
 ## When and where?
 
-- Thursday 28th November 2019; 12:30 - 17:00; eLearning 3 - School of Clinical Medicine, Addenbrookes site
+- Tuesday 1st December 2020; 10:00-16:00; ONLINE using Crik-Marshall ZOOMed environment
 
 ## Outline
 
 It has been said that 80% of data analysis is spent on the process of cleaning and preparing the data. Not only does this represent a significant time investment for the data analyst, but is often a hurdle for the non-specialist trying to get to grips with analysing their own data after attending an R or Python course. Despite the best intentions, a spreadsheet that is intuitive and easily-understandable by human eyes can lead to disaster when trying to process computationally.
 
-This workshop will go through the basic principles that we can all adopt in order to work with data more effectively and “think like a computer”. Moreover, we will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future.
+This workshop will go through the basic principles that we can all adopt in order to work with data more effectively and “think like a computer”. Moreover, we will discuss the best practices for data management and organisation so that our research is auditable and reproducible by ourselves, and others, in the future. Part of the journey will be via critical evaluation of example Data Management Plans (Often a condition of Grant).   
 
 ## Description
 <Details>
@@ -50,28 +50,30 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ## Timetable
 
-|   | Timetable for 28th November 2019  |
+|   | Timetable for 1st Deceember 2020 10:00-16:00  |
 |---|---|
-|  12:30 - 12:50 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
-|  12:50 - 13:30 | [Data formatting](data_formatting.pdf) (Mark)  |
-|  13:30 - 14:15 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
-|  14:15 - 14:55 |  [File management](file_management.pdf) (Ash)  |
-|  14:55 - 15:10 |  Break - Tea, coffee & biscuits |
-|  15:10 - 15:30 |  [File management in DMP practical](File_man_pract.md) (Ash&Mark)  |
-|  15:30 - 16:10 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
-|  16:10 - 16:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
-|  16:45 - 17:00 |  Wrap-up & close |
+|  10:00 - 10:20 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
+|  10:20 - 11:00 | [Data formatting](data_formatting.pdf) (Mark)  |
+|  11:00 - 11:10 | Break |
+|  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
+|  12:00 - 12:45 |  [File management](file_management.pdf) (Ash)  |
+|  12:45 - 13:45 | Lunch break |
+|  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Ash&Mark)  |
+|  14:15 - 15:00 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
+|  15:00 - 15:10 | Break |
+|  15:10 - 15:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
+|  15:45 - 16:00 |  Wrap-up & close |
 
-[>>>>Please fill in the feedback survey at end of course<<<<](https://www.surveymonkey.co.uk/r/ResDataNov19)
+[>>>>Please fill in the feedback survey at end of course<<<<]()
 
 [Data for OpenRefine practical - right click for download ](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
 
 ### Example Data Management Plans for practicals
 
-[Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
 [Drosophila BBSRC project](DMPs/Media_418168_smxx.pdf).  
 [Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
 [Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
 [Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
+[Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
 
 [A Data management plan checklist](DMP_Checklist_2013.pdf).  
