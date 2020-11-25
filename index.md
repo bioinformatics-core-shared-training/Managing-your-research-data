@@ -77,3 +77,6 @@ As a researcher, you will encounter research data in many forms, ranging from me
 [Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
 
 [A Data management plan checklist](DMP_Checklist_2013.pdf).  
+
+### Further reading ###
+- [Journal of Cheminformatics: Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0345-8)
