@@ -78,7 +78,7 @@ As a researcher, you will encounter research data in many forms, ranging from me
 A __very__ different style of DMP for EU projects (Do NOT use for practicals).  
 [Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
 
-**Useful checklist**
+**Useful checklist**    
 [A Data management plan checklist](DMP_Checklist_2013.pdf).  
 
 ### Further reading ###
