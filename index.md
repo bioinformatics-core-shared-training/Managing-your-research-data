@@ -50,18 +50,18 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ## Timetable
 
-|   | Timetable for 1st Deceember 2020 10:00-16:00  |
+|   | Timetable for 1st December 2020 10:00-16:00  |
 |---|---|
 |  10:00 - 10:20 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
 |  10:20 - 11:00 | [Data formatting](data_formatting.pdf) (Mark)  |
 |  11:00 - 11:10 | Break |
-|  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Ash) |
-|  12:00 - 12:45 |  [File management](file_management.pdf) (Ash)  |
+|  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Abbi) |
+|  12:00 - 12:45 |  [File management](file_management.pdf) (Abbi)  |
 |  12:45 - 13:45 | Lunch break |
-|  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Ash&Mark)  |
+|  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Abbi&Mark)  |
 |  14:15 - 15:00 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
 |  15:00 - 15:10 | Break |
-|  15:10 - 15:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Ash) |
+|  15:10 - 15:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Abbi) |
 |  15:45 - 16:00 |  Wrap-up & close |
 
 [>>>>Please fill in the feedback survey at end of course<<<<]()
@@ -74,8 +74,11 @@ As a researcher, you will encounter research data in many forms, ranging from me
 [Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
 [Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
 [Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
+
+A __very__ different style of DMP for EU projects (Do NOT use for practicals).  
 [Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
 
+**Useful checklist**
 [A Data management plan checklist](DMP_Checklist_2013.pdf).  
 
 ### Further reading ###
