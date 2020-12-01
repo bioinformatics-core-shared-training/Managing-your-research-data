@@ -88,5 +88,6 @@ A __very__ different style of DMP for EU projects (Do NOT use for practicals).
 - [Wikipedia aarticle on FAIR principles](https://en.wikipedia.org/wiki/FAIR_data). 
 
 ### Further viewing ###
+- {Keith Beggeley talk on how cut and paste errors could endanger patients](https://www.youtube.com/watch?v=7gYIs7uYbMo)
 - [Florian's talk on why work reproducibly](https://www.youtube.com/watch?v=Is15CMVPHas)
 - [Fun look at why organisation matters - Bad Project (Lady Gaga parody)](https://www.youtube.com/watch?v=Fl4L4M8m4d0)
