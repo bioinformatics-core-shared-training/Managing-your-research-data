@@ -87,6 +87,7 @@ A __very__ different style of DMP for EU projects (Do NOT use for practicals).
 
 ### Further reading ###
 - [Journal of Cheminformatics: Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0345-8)
+- [Article on Electronic Lab Notebooks (ELNs) by Labfolder CEO](https://www.labfolder.com/electronic-lab-notebook-eln-research-guide/)
 - [Blog article on removimg units using OpenRefine](http://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
 - [Quite extensive course on Openrefine](https://itsmecevi.github.io/openrefine)
 - [Wikipedia aarticle on FAIR principles](https://en.wikipedia.org/wiki/FAIR_data). 
@@ -95,5 +96,4 @@ A __very__ different style of DMP for EU projects (Do NOT use for practicals).
 - [Introdduction to OpenRefine video tutorial](https://www.youtube.com/watch?v=wGVtycv3SS0)
 - [Keith Beggeley talk on how cut and paste errors could endanger patients](https://www.youtube.com/watch?v=7gYIs7uYbMo)
 - [Florian's talk on why work reproducibly](https://www.youtube.com/watch?v=Is15CMVPHas)
-- [Article on Electronic Lab Notebooks (ELNs) by Labfolder CEO](https://www.labfolder.com/electronic-lab-notebook-eln-research-guide/)
 - [Fun look at why organisation matters - Bad Project (Lady Gaga parody)](https://www.youtube.com/watch?v=Fl4L4M8m4d0)
