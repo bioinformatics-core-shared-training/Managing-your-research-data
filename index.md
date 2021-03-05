@@ -3,7 +3,7 @@
 ## https://tinyurl.com/cruk-myrd
 ## When and where?
 
-- Tuesday 1st December 2020; 10:00-16:00; ONLINE using Crik-Marshall ZOOMed environment
+- Friday 19th March 2021; 10:00-16:00; ONLINE using Crik-Marshall ZOOMed environment
 
 ## Outline
 
@@ -50,18 +50,22 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ## Timetable
 
-|   | Timetable for 1st December 2020 10:00-16:00  |
+__Trainers__
+Mark Fernandes  (CRUK Cambridge Institute)
+Qi Wang         (Bioinformatician, Department of Plant Sciences)
+
+|   | Timetable for 19th March 2021 10:00-16:00  |
 |---|---|
 |  10:00 - 10:20 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
 |  10:20 - 11:00 | [Data formatting](data_formatting.pdf) (Mark)  |
 |  11:00 - 11:10 | Break |
-|  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Abbi) |
-|  12:00 - 12:45 |  [File management](file_management.pdf) (Abbi)  |
+|  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Qi) |
+|  12:00 - 12:45 |  [File management](file_management.pdf) (Qi)  |
 |  12:45 - 13:45 | Lunch break |
-|  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Abbi&Mark)  |
+|  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Qi&Mark)  |
 |  14:15 - 15:00 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
 |  15:00 - 15:10 | Break |
-|  15:10 - 15:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Abbi) |
+|  15:10 - 15:45 |  [Data Sharing & Backup in DMP practical](data_share_pract.md) (Mark&Qi) |
 |  15:45 - 16:00 |  Wrap-up & close |
 
 [>>>>Please fill in the feedback survey at end of course<<<<]()
