@@ -50,9 +50,9 @@ As a researcher, you will encounter research data in many forms, ranging from me
 
 ## Timetable
 
-__Trainers__
-Mark Fernandes  (CRUK Cambridge Institute)
-Qi Wang         (Bioinformatician, Department of Plant Sciences)
+_Trainers_.  
+Mark Fernandes  (CRUK Cambridge Institute).  
+Qi Wang         (Bioinformatician, Department of Plant Sciences).  
 
 |   | Timetable for 19th March 2021 10:00-16:00  |
 |---|---|
