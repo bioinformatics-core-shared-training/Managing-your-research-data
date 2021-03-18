@@ -88,7 +88,7 @@ A __very__ different style of DMP for EU projects (Do NOT use for practicals).
 ### Further reading ###
 - [Journal of Cheminformatics: Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0345-8)
 - [Article on Electronic Lab Notebooks (ELNs) by Labfolder CEO](https://www.labfolder.com/electronic-lab-notebook-eln-research-guide/)
-- [Blog article on removimg units using OpenRefine](http://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
+- [Blog article on removimg units using OpenRefine - Wayback machine verson of deleted blog article](https://web.archive.org/web/20201026004029/https://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
 - [Quite extensive course on Openrefine](https://itsmecevi.github.io/openrefine)
 - [Wikipedia aarticle on FAIR principles](https://en.wikipedia.org/wiki/FAIR_data). 
 
