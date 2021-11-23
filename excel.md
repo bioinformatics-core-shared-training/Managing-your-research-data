@@ -10,3 +10,11 @@ Use the data validation feature to ensure that all fields are filled in with the
 Give helpful feedback messages if data is input incorrectly.    
 
 Test your sheet by entering some made-up data (better yet swap with your neighbour & test each others spreadsheets). 
+
+
+__Hint section__
+In __Open/LibreOffice__ use the Data-Validity option (NB to avoid empty cells change from all values to anything else. You will then be able to de-select the allow empty cells box. Then click on the desired data type.    
+In __Excel__. 
+In. __GoogleSheets__.   
+
+
