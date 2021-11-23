@@ -1,5 +1,12 @@
 ## File Management practical
 
-Working as a group on your table, please examine the DMPs and note what you deem to be examples of good File Management principles
-as referred to in the previous talk. What are your opinions of how these are documented?   
+__Working as a group on your table, please either__.   
+a) examine the example DMPs     
+  or.    
+b) look at your own projects data details.   
+
+For the above, note what you deem to be examples of good File Management principles
+as referred to in the previous talk.     
+
+What are your opinions of how these DMPs are documented with respect to File management practices?       
 We will have a 5 minute session at end of practical to share findings.
