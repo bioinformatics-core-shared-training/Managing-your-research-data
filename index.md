@@ -3,7 +3,7 @@
 ## https://tinyurl.com/cruk-myrd
 ## When and where?
 
-- Friday 19th March 2021; 10:00-16:00; ONLINE using Crik-Marshall ZOOMed environment
+- Friday 3rd December 2021; 10:00-16:00; ONLINE using Crik-Marshall ZOOMed environment
 
 ## Outline
 
