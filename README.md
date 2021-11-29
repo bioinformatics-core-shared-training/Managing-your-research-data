@@ -2,7 +2,7 @@
 
 ## When and where?
 
-- Thursday 28th November 2019; 12:30 - 17:00; eLearning 3 - School of Clinical Medicine, 
+- Friday 3rd December 2021; 10:00 - 16:00; Online via Zoom 
 
 ## Description and timetable
 
