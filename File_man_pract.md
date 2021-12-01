@@ -7,8 +7,8 @@ b) If someone has their own project data example then you can choose to work
 with that. Note that you should still take a quick look at one of the DMPs to    
 guide you.    
 
-For the above, note what you deem to be examples of good File Management principles
-as referred to in the previous talk.     
+For the above, note what you deem to be examples of good File Management     
+principles as referred to in the previous talk.     
 
 What are your opinions of how these DMPs are documented with respect to File.   
 management practices/which principles did you apply to your data?          
