@@ -2,7 +2,7 @@
 
 ## When and where?
 
-- Friday 3rd December 2021; 10:00 - 16:00; Online via Zoom 
+- Monday 7th November 2022; 10:00 - 16:30; Online via Zoom 
 
 ## Description and timetable
 
