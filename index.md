@@ -79,7 +79,7 @@ Qi Wang         (Bioinformatician, Department of Plant Sciences).
 [Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
 [Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
 [Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
-[scRNAseq analysis of neurons](SMPs/NGS_DataManPlan.pdf).  
+[scRNAseq analysis of neurons](DMPs/NGS_DataManPlan.pdf).  
 
 A __very__ different style of DMP for EU projects (Do NOT use for practicals).  
 [Horizon 2020 EU Project](DMPs/Full_life_cycle_Report.pdf).  
