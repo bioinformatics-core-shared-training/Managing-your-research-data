@@ -54,7 +54,7 @@ _Trainers_.
 Mark Fernandes  (CRUK Cambridge Institute).  
 Qi Wang         (Bioinformatician, Department of Plant Sciences).  
 
-|   | Timetable for 3rd December 2021 10:00-16:00  |
+|   | Timetable  |
 |---|---|
 |  10:00 - 10:20 |  [Introduction, Data Management Plans](data_management.pdf)  (Mark)  |
 |  10:20 - 11:00 | [Data formatting](data_formatting.pdf) (Mark)  |
