@@ -61,7 +61,7 @@ Qi Wang         (Bioinformatician, Department of Plant Sciences).
 |  11:00 - 11:10 | Break |
 |  11:10 - 12:00 | [OpenRefine practical (Live coding)](refine_demo.pdf) (Mark&Qi) |
 |  12:00 - 12:15 | [Spreadsheet validation practical](excel.md) (Mark&Qi) |
-|  12:15 - 13:00 |  [File management](file_management_2021Mar19_share_v04.pdf) (Qi)  |
+|  12:15 - 13:00 |  [File management](file_management_2022Nov7_share.pdf) (Qi)  |
 |  13:00 - 13:45 | Lunch break |
 |  13:45 - 14:15 |  [File management in DMP practical](File_man_pract.md) (Qi&Mark)  |
 |  14:15 - 15:00 |  [Data Sharing & Backup](data_sharing_backup.pdf) (Mark) |
