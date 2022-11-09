@@ -72,6 +72,7 @@ Qi Wang         (Bioinformatician, Department of Plant Sciences).
 [>>>>Please fill in the feedback survey at end of course<<<<]()
 
 [Data for OpenRefine practical - right click for download ](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
+__OR__ Use in the Web address option and enter either https://tinyurl.com/myrdatafile or       https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt
 
 ### Example Data Management Plans for practicals
 
