@@ -2,7 +2,8 @@
 
 ## When and where?
 
-- Tuesday 2nd May 2023; 10:00-16:30; ONLINE using Craik-Marshall ZOOM environment
+- Tuesday 2nd May 2023 10:00-16:30
+- ONLINE using Craik-Marshall ZOOM environment
 
 ## Outline
 
@@ -24,10 +25,10 @@ Management Plans (Often a condition of Grant).
 ## Description
 
 <ul>
-  <li> - Do you know what a Data Management Plan is and what it covers?  </li> 
-  <li> - How much data would you lose if your laptop was stolen?    </li>
-  <li> - Have you ever emailed your colleague a file named 'final_final_versionEDITED'?  </li> 
-  <li> - Have you ever struggled to import your spreadsheets into R?  </li> 
+  <li> Do you know what a Data Management Plan is and what it covers?  </li> 
+  <li> How much data would you lose if your laptop was stolen?    </li>
+  <li> Have you ever emailed your colleague a file named 'final_final_versionEDITED'?  </li> 
+  <li> Have you ever struggled to import your spreadsheets into R?  </li> 
 </ul>
 
 As a researcher, you will encounter research data in many forms, ranging from
@@ -41,22 +42,22 @@ research is auditable and reproducible by ourselves, and others, in the future.
 ## Aims: During this course you will learn about:
 
 <ul>
-  <li>- What Research Funders expect</li>
-  <li>- Options for backing up your computer</li>
-  <li>- Ideas for naming and organising your files</li>
-  <li>- Strategies for exchanging files with collaborators</li>
-  <li>- Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R</li>
-  <li>- Learn how to use the OpenRefine software for data cleaning</li>
-  <li>- Preparing high-throughput biological data for submission to a public repository</li>
+  <li> What Research Funders expect</li>
+  <li> Options for backing up your computer</li>
+  <li> Ideas for naming and organising your files</li>
+  <li> Strategies for exchanging files with collaborators</li>
+  <li> Tips and tricks to make sure that your spreadsheets are readable by programming languages such as R</li>
+  <li> Learn how to use the OpenRefine software for data cleaning</li>
+  <li> Preparing high-throughput biological data for submission to a public repository</li>
 </ul>
 
 ## Objectives: After this course you should be able to:
 
 <ul>
-  <li>- Select an appropriate backup strategy for your data</li>
-  <li>- Organise your files in a more structured and consistent manner</li>
-  <li>- Avoid common pitfalls in spreadsheet manipulation</li>
-  <li>- Known what resources are available at The University of Cambridge for Research Data Management</li>
+  <li> Select an appropriate backup strategy for your data</li>
+  <li> Organise your files in a more structured and consistent manner</li>
+  <li> Avoid common pitfalls in spreadsheet manipulation</li>
+  <li> Known what resources are available at The University of Cambridge for Research Data Management</li>
 </ul>
 
 ## Timetable
