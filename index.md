@@ -96,8 +96,7 @@ Ashley Sawle (CRUK Cambridge Institute).
 [Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
 [scRNAseq analysis of neurons](DMPs/NGS_DataManPlan.pdf).  
 
-**Useful checklist**    
-[A Data management plan checklist](DMP_Checklist_2013.pdf).  
+**Useful checklist:** [A Data management plan checklist](DMP_Checklist_2013.pdf).  
 
 ### Further reading
 
