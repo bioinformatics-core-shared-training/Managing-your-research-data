@@ -88,7 +88,7 @@ Ashley Sawle (CRUK Cambridge Institute).
 [patient_data.txt](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
 
 
-### Example Data Management Plans for practicals
+### Data Management Plans for practicals
 
 [Drosophila BBSRC project](DMPs/Media_418168_smxx.pdf).  
 [Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
