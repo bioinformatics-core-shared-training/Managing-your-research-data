@@ -17,3 +17,10 @@ Is there anything they have missed or omitted?
 
 We will have a 5 minute session at end of practical to share findings.
 
+### Data Management Plans for practicals
+
+[Drosophila BBSRC project](DMPs/Media_418168_smxx.pdf).  
+[Signalling pathways MRC project](DMPs/Media_442573_smxx.pdf).  
+[Bioinformatics software BBSRC project](DMPs/RIO_article_11624.pdf).  
+[Pathways to violence & crime ESRC project](DMPs/esrc_z-proso-DMP.pdf).  
+[scRNAseq analysis of neurons](DMPs/NGS_DataManPlan.pdf).  
