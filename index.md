@@ -73,7 +73,7 @@ Ashley Sawle (CRUK Cambridge Institute).
 |  11:00 - 11:10 | Break |
 |  11:10 - 12:00 | [OpenRefine practical](refine_demo.pdf) (Abbi) |
 |  12:00 - 12:15 | [Spreadsheet validation practical](excel.md) (Abbi) |
-|  12:15 - 13:00 | [File management](file_management_2022Nov7_share.pdf) (Ash)  |
+|  12:15 - 13:00 | [File management](file_management.pdf) (Ash)  |
 |  13:00 - 13:45 | Lunch break |
 |  13:45 - 14:15 | [File management in DMP practical](File_man_pract.md) (Ash)  |
 |  14:15 - 15:00 | [Data Sharing & Backup](data_sharing_backup.pdf) (Abbi) |
@@ -81,9 +81,11 @@ Ashley Sawle (CRUK Cambridge Institute).
 |  15:10 - 15:45 | [Data Sharing & Backup in DMP practical](data_share_pract.md) (Abbi) |
 |  15:45 - 16:00 | Wrap-up & close |
 
-[>>>>Please fill in the feedback survey at end of course<<<<]()
+[**Please fill in the feedback survey at end of course**](https://www.surveymonkey.co.uk/r/5S2DTTS)
 
-[Data for OpenRefine practical - right click for download](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
+### Data for OpenRefine practical
+
+[patient_data.txt](https://raw.githubusercontent.com/bioinformatics-core-shared-training/Managing-your-research-data/master/patient_data.txt)
 
 
 ### Example Data Management Plans for practicals
@@ -97,7 +99,8 @@ Ashley Sawle (CRUK Cambridge Institute).
 **Useful checklist**    
 [A Data management plan checklist](DMP_Checklist_2013.pdf).  
 
-### Further reading ###
+### Further reading
+
 - [Journal of Cheminformatics: Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0345-8)
 - [Article on Electronic Lab Notebooks (ELNs) by Labfolder CEO](https://www.labfolder.com/electronic-lab-notebook-eln-research-guide/)
 - [Blog article on removimg units using OpenRefine - Wayback machine verson of deleted blog article](https://web.archive.org/web/20201026004029/https://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
@@ -107,5 +110,5 @@ Ashley Sawle (CRUK Cambridge Institute).
 ### Further viewing ###
 - [Introduction to OpenRefine video tutorial](https://www.youtube.com/watch?v=wGVtycv3SS0)
 - [Keith Beggeley talk on how cut and paste errors could endanger patients](https://www.youtube.com/watch?v=7gYIs7uYbMo)
-- [Florian's talk on why work reproducibly](https://www.youtube.com/watch?v=Is15CMVPHas)
+- [Florian's talk on why work reproducibly](https://www.youtube.com/watch?v=S8bU1CyEkRM)
 - [Fun look at why organisation matters - Bad Project (Lady Gaga parody)](https://www.youtube.com/watch?v=Fl4L4M8m4d0)
