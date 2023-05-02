@@ -1,17 +1,19 @@
 ## File Management practical
 
-__Working as a group on your table, please either__.   
-a) examine the example DMPs     
-  or.    
-b) If someone has their own project data example then you can choose to work    
-with that. Note that you should still take a quick look at one of the DMPs to    
-guide you.    
+__Working as a group__.   
+
+Select one of the Data Management Plans and examine it.
 
 For the above, note what you deem to be examples of good File Management     
 principles as referred to in the previous talk.     
 
-What are your opinions of how these DMPs are documented with respect to File.   
-management practices/which principles did you apply to your data?          
+You may want to use the DMP checklist linked on the main website.
+
+What are your opinions of how these DMPs are documented?
+
+What management practices/which principles are to be implented?
+
+Is there anything they have missed or omitted?         
 
 We will have a 5 minute session at end of practical to share findings.
 
