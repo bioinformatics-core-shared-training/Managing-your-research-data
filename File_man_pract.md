@@ -7,7 +7,7 @@ Select one of the Data Management Plans and examine it.
 For the above, note what you deem to be examples of good File Management     
 principles as referred to in the previous talk.     
 
-You may want to use the DMP checklist linked on the main website.
+You may want to use the [DMP checklist](DMP_Checklist_2013.pdf).
 
 What are your opinions of how these DMPs are documented?
 
