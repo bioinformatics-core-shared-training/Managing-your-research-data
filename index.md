@@ -102,9 +102,9 @@ Ashley Sawle (CRUK Cambridge Institute).
 
 - [Journal of Cheminformatics: Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-019-0345-8)
 - [Article on Electronic Lab Notebooks (ELNs) by Labfolder CEO](https://www.labfolder.com/electronic-lab-notebook-eln-research-guide/)
-- [Blog article on removimg units using OpenRefine - Wayback machine verson of deleted blog article](https://web.archive.org/web/20201026004029/https://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
-- [Quite extensive course on Openrefine](https://itsmecevi.github.io/openrefine)
-- [Wikipedia aarticle on FAIR principles](https://en.wikipedia.org/wiki/FAIR_data). 
+- [Blog article on removing units using OpenRefine - Wayback machine verson of deleted blog article](https://web.archive.org/web/20201026004029/https://susanemcgregor.com/removing-unwanted-units-from-data-with-chomp-in-google-refine/)
+- [Quite extensive course on OpenRefine](https://itsmecevi.github.io/openrefine)
+- [Wikipedia article on FAIR principles](https://en.wikipedia.org/wiki/FAIR_data). 
 
 ### Further viewing ###
 - [Introduction to OpenRefine video tutorial](https://www.youtube.com/watch?v=wGVtycv3SS0)
