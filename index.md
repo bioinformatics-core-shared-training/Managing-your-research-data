@@ -81,7 +81,7 @@ Ashley Sawle (CRUK Cambridge Institute).
 |  15:10 - 15:45 | [Data Sharing & Backup in DMP practical](data_share_pract.md) (Abbi) |
 |  15:45 - 16:00 | Wrap-up & close |
 
-[**Please fill in the feedback survey at end of course**](https://www.surveymonkey.co.uk/r/5S2DTTS)
+**Please fill in the feedback survey at end of course** [link](https://www.surveymonkey.co.uk/r/5S2DTTS)
 
 ### Data for OpenRefine practical
 
